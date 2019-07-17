@@ -1,0 +1,16 @@
+header{
+  height: 10vh;
+  background-color: black;
+}
+section{
+  height: 90vh;
+}
+section div{
+  background-color: whitesmoke;
+  min-height: 80vh;
+  margin: auto;
+}
+footer{
+  background-color: black;
+  height: 10vh;
+}
